@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "897732530522",
+    "firebase_url": "https://sonic-proxy-443608-g4-default-rtdb.firebaseio.com",
+    "project_id": "sonic-proxy-443608-g4",
+    "storage_bucket": "sonic-proxy-443608-g4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897732530522:android:893db10460aa1fbcd2a363",
+        "android_client_info": {
+          "package_name": "com.example.firebaseproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzoKt-ra_fPr_lhl_6UEKlMS9QiCI4fME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897732530522:android:a583a81fb795d0ebd2a363",
+        "android_client_info": {
+          "package_name": "com.example.helloworld"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzoKt-ra_fPr_lhl_6UEKlMS9QiCI4fME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
